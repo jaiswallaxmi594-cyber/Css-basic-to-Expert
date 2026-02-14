@@ -13,7 +13,7 @@ It showcases my skills, projects, and contact information.
 ## 🛠️ Technologies Used
 - HTML5
 - CSS3
-- JavaScript (basic)
+
 
 ## 📂 Project Structure
 portfolio/
