@@ -1,4 +1,4 @@
-# My Portfolio Website
+
 
 This is my personal portfolio website built using HTML and CSS.  
 It showcases my skills, projects, and contact information.
@@ -40,4 +40,6 @@ LinkedIn: (your linkedin link)
 📌 Note
 
 This project is a part of my learning journey in web development.
-It is created for educational and practice purposes only.
+It is created for edu.cational and practice purposes only.
+
+@2026 Laxmijaiswal. All rights reserved.
